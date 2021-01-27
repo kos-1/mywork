@@ -9,7 +9,7 @@ function App() {
       <AmplifySignOut />
       <header>
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>CHANGES</h1>
+        <h1>CHANGES MADE</h1>
       </header>
       <AmplifySignOut />
     </div>
